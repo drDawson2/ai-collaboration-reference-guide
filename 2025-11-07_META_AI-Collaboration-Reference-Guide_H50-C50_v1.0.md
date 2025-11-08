@@ -1248,9 +1248,7 @@ Local storage (not in Claude project)
 
 **APA Format:**
 
-Dawson, D. R., II. (2025). *AI collaboration system: Comprehensive reference guide*. Northeastern University. https://drdawson2.github.io/dissertation-guide/
-
-**Note:** Update URL with specific GitHub repository location when published.
+Dawson, D. R., II. (2025). *AI collaboration system: Comprehensive reference guide*. Northeastern University. https://drdawson2.github.io/ai-collaboration-reference-guide/
 
 ---
 
