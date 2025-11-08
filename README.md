@@ -147,9 +147,8 @@ Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 **APA Format:**
 
-Dawson, D. R., II. (2025). *AI collaboration system: Comprehensive reference guide*. Northeastern University. https://github.com/[your-username]/[repo-name]
+Dawson, D. R., II. (2025). *AI collaboration system: Comprehensive reference guide*. Northeastern University. https://drdawson2.github.io/ai-collaboration-reference-guide/
 
-*(Update with actual repository URL)*
 
 ## Author
 
